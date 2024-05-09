@@ -7,7 +7,7 @@ class Calculator {
         this.left = left;
         this.right = right;
     }
- 
+
     public void sum() {
         System.out.println(this.left + this.right);
     }
