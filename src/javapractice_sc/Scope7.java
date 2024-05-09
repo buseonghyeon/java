@@ -7,6 +7,7 @@ class C {
         System.out.println(v);
     }
 }
+
  
 public class ScopeDemo7 {
  
