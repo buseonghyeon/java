@@ -9,7 +9,7 @@ class Calculator {
         this.right = right;
         //Calculator.PI = 6;
     }
- 
+
     public void sum() {
         System.out.println(this.left + this.right);
     }
