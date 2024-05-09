@@ -11,6 +11,7 @@ class A {
         return z();
     }
 }
+
 public class Access1 {
     public static void main(String[] args) {
         A a = new A();
