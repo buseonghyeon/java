@@ -7,7 +7,6 @@ class MultiplicationableCalculator extends Calculator {
 }
  
 public class CalculatorDemo2 {
- 
     public static void main(String[] args) {
  
         MultiplicationableCalculator c1 = new MultiplicationableCalculator();
