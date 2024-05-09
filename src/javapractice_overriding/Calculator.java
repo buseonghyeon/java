@@ -18,7 +18,7 @@ class Calculator {
 }
  
 class SubstractionableCalculator extends Calculator {
-     
+    
     public void sum() {
         System.out.println("실행 결과는 " +(this.left + this.right)+"입니다.");
     }
