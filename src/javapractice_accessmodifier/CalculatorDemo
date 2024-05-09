@@ -7,6 +7,7 @@ class Calculator{
         this.left = left;
         this.right = right;
     }
+
     private int _sum(){
         return this.left+this.right;
     }
