@@ -16,7 +16,7 @@ class Calculator{
         this.right = right;
         this.third = third;
     }
-     
+    
     public void sum(){
         System.out.println(this.left+this.right+this.third);
     }
