@@ -8,7 +8,8 @@ class C3 {
         System.out.println(this.v);
     }
 }
- 
+
+
 public class ScopeDemo9 {
  
     public static void main(String[] args) {
