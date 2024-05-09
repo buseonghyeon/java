@@ -6,7 +6,7 @@ public class Scope2 {
     static void a() {
         i = 0;
     }
- 
+  
     public static void main(String[] args) {
         for (i = 0; i < 5; i++) {
             a();
