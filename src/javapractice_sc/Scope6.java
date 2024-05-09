@@ -7,7 +7,7 @@ public class ScopeDemo6 {
         int i = 10;
         b();
     }
- 
+  
     static void b() {
         System.out.println(i);
     }
