@@ -23,6 +23,7 @@ class Calculator{
         System.out.println(total/this.oprands.length);
     }
 }
+
 public class NewCalculator {
     public static void main(String[] args) {
         Calculator c1 = new Calculator();
